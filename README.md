@@ -1,4 +1,4 @@
-# ModuleIAP - Swift 0.0.11
+# ModuleIAP - Swift 1.0.1
 
 
 Charger les produits IAP existants :
